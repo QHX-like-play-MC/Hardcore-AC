@@ -10,6 +10,7 @@ AC.exe --键位 --cps cps数
 |:--|:--|
 |键位|left / mid / right|
 |cps数|1000以内的整数|
+
 示例：
 ```bash
 AC.exe --left --cps 20
