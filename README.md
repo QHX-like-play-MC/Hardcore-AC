@@ -15,3 +15,4 @@ AC.exe --键位 --cps cps数
 ```bash
 AC.exe --left --cps 20
 ```
+- **按F8启停**
